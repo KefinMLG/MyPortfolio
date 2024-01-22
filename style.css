@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: lightcyan;
+}
+ul {
+  list-style: none;
+}
+h1 {
+  text-align: center;
+}
+
+topnav {
+  text-align: center;
+}
