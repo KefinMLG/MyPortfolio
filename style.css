@@ -9,7 +9,14 @@ ul {
 h1 {
   text-align: center;
 }
-
-topnav {
+.topnav {
+  border-style:solid;
+  font-size: 25px;
+  background-color: #fff000;
+  overflow: hidden;
+  text-align: center;
+  height: 50px;
+}
+img {
   text-align: center;
 }
